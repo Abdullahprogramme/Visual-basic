@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case of otherwise Number sequence", "Case of otherwise Number sequence\Case of otherwise Number sequence.vbproj", "{A24ED342-DB9A-4948-B354-0E13C35989BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A24ED342-DB9A-4948-B354-0E13C35989BF}.Debug|x86.ActiveCfg = Debug|x86
+		{A24ED342-DB9A-4948-B354-0E13C35989BF}.Debug|x86.Build.0 = Debug|x86
+		{A24ED342-DB9A-4948-B354-0E13C35989BF}.Release|x86.ActiveCfg = Release|x86
+		{A24ED342-DB9A-4948-B354-0E13C35989BF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

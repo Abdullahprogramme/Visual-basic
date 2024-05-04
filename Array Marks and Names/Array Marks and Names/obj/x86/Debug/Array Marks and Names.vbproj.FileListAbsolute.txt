@@ -1,0 +1,8 @@
+D:\Abdullah\Computer Science\Visual Basic\Array Marks and Names\Array Marks and Names\bin\Debug\Array Marks and Names.exe
+D:\Abdullah\Computer Science\Visual Basic\Array Marks and Names\Array Marks and Names\bin\Debug\Array Marks and Names.pdb
+D:\Abdullah\Computer Science\Visual Basic\Array Marks and Names\Array Marks and Names\bin\Debug\Array Marks and Names.xml
+D:\Abdullah\Computer Science\Visual Basic\Array Marks and Names\Array Marks and Names\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\Abdullah\Computer Science\Visual Basic\Array Marks and Names\Array Marks and Names\obj\x86\Debug\Array Marks and Names.vbproj.GenerateResource.Cache
+D:\Abdullah\Computer Science\Visual Basic\Array Marks and Names\Array Marks and Names\obj\x86\Debug\Array Marks and Names.exe
+D:\Abdullah\Computer Science\Visual Basic\Array Marks and Names\Array Marks and Names\obj\x86\Debug\Array Marks and Names.xml
+D:\Abdullah\Computer Science\Visual Basic\Array Marks and Names\Array Marks and Names\obj\x86\Debug\Array Marks and Names.pdb

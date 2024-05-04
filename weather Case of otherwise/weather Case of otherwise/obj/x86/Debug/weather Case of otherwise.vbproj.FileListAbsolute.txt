@@ -1,0 +1,8 @@
+D:\Abdullah\Computer Science\Visual Basic\weather Case of otherwise\weather Case of otherwise\bin\Debug\weather Case of otherwise.exe
+D:\Abdullah\Computer Science\Visual Basic\weather Case of otherwise\weather Case of otherwise\bin\Debug\weather Case of otherwise.pdb
+D:\Abdullah\Computer Science\Visual Basic\weather Case of otherwise\weather Case of otherwise\bin\Debug\weather Case of otherwise.xml
+D:\Abdullah\Computer Science\Visual Basic\weather Case of otherwise\weather Case of otherwise\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\Abdullah\Computer Science\Visual Basic\weather Case of otherwise\weather Case of otherwise\obj\x86\Debug\weather Case of otherwise.vbproj.GenerateResource.Cache
+D:\Abdullah\Computer Science\Visual Basic\weather Case of otherwise\weather Case of otherwise\obj\x86\Debug\weather Case of otherwise.exe
+D:\Abdullah\Computer Science\Visual Basic\weather Case of otherwise\weather Case of otherwise\obj\x86\Debug\weather Case of otherwise.xml
+D:\Abdullah\Computer Science\Visual Basic\weather Case of otherwise\weather Case of otherwise\obj\x86\Debug\weather Case of otherwise.pdb

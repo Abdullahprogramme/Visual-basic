@@ -1,0 +1,8 @@
+D:\Abdullah\Computer Science\Visual Basic\Peoples\Peoples\bin\Debug\Peoples.exe
+D:\Abdullah\Computer Science\Visual Basic\Peoples\Peoples\bin\Debug\Peoples.pdb
+D:\Abdullah\Computer Science\Visual Basic\Peoples\Peoples\bin\Debug\Peoples.xml
+D:\Abdullah\Computer Science\Visual Basic\Peoples\Peoples\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\Abdullah\Computer Science\Visual Basic\Peoples\Peoples\obj\x86\Debug\Peoples.vbproj.GenerateResource.Cache
+D:\Abdullah\Computer Science\Visual Basic\Peoples\Peoples\obj\x86\Debug\Peoples.exe
+D:\Abdullah\Computer Science\Visual Basic\Peoples\Peoples\obj\x86\Debug\Peoples.xml
+D:\Abdullah\Computer Science\Visual Basic\Peoples\Peoples\obj\x86\Debug\Peoples.pdb

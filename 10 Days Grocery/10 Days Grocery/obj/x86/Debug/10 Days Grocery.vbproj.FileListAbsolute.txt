@@ -1,0 +1,8 @@
+D:\Abdullah\Computer Science\Visual Basic\10 Days Grocery\10 Days Grocery\bin\Debug\10 Days Grocery.exe
+D:\Abdullah\Computer Science\Visual Basic\10 Days Grocery\10 Days Grocery\bin\Debug\10 Days Grocery.pdb
+D:\Abdullah\Computer Science\Visual Basic\10 Days Grocery\10 Days Grocery\bin\Debug\10 Days Grocery.xml
+D:\Abdullah\Computer Science\Visual Basic\10 Days Grocery\10 Days Grocery\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\Abdullah\Computer Science\Visual Basic\10 Days Grocery\10 Days Grocery\obj\x86\Debug\10 Days Grocery.vbproj.GenerateResource.Cache
+D:\Abdullah\Computer Science\Visual Basic\10 Days Grocery\10 Days Grocery\obj\x86\Debug\10 Days Grocery.exe
+D:\Abdullah\Computer Science\Visual Basic\10 Days Grocery\10 Days Grocery\obj\x86\Debug\10 Days Grocery.xml
+D:\Abdullah\Computer Science\Visual Basic\10 Days Grocery\10 Days Grocery\obj\x86\Debug\10 Days Grocery.pdb

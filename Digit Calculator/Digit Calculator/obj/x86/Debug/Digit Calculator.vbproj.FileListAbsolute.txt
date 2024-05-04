@@ -1,0 +1,16 @@
+D:\O levels\Computer Science\Visual Basic\Digit Calculator\Digit Calculator\bin\Debug\Digit Calculator.exe
+D:\O levels\Computer Science\Visual Basic\Digit Calculator\Digit Calculator\bin\Debug\Digit Calculator.pdb
+D:\O levels\Computer Science\Visual Basic\Digit Calculator\Digit Calculator\bin\Debug\Digit Calculator.xml
+D:\O levels\Computer Science\Visual Basic\Digit Calculator\Digit Calculator\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\O levels\Computer Science\Visual Basic\Digit Calculator\Digit Calculator\obj\x86\Debug\Digit Calculator.vbproj.GenerateResource.Cache
+D:\O levels\Computer Science\Visual Basic\Digit Calculator\Digit Calculator\obj\x86\Debug\Digit Calculator.exe
+D:\O levels\Computer Science\Visual Basic\Digit Calculator\Digit Calculator\obj\x86\Debug\Digit Calculator.xml
+D:\O levels\Computer Science\Visual Basic\Digit Calculator\Digit Calculator\obj\x86\Debug\Digit Calculator.pdb
+D:\Abdullah\Computer Science\Visual Basic\Digit Calculator\Digit Calculator\obj\x86\Debug\Digit Calculator.exe
+D:\Abdullah\Computer Science\Visual Basic\Digit Calculator\Digit Calculator\obj\x86\Debug\Digit Calculator.xml
+D:\Abdullah\Computer Science\Visual Basic\Digit Calculator\Digit Calculator\obj\x86\Debug\Digit Calculator.pdb
+D:\Abdullah\Computer Science\Visual Basic\Digit Calculator\Digit Calculator\bin\Debug\Digit Calculator.exe
+D:\Abdullah\Computer Science\Visual Basic\Digit Calculator\Digit Calculator\bin\Debug\Digit Calculator.pdb
+D:\Abdullah\Computer Science\Visual Basic\Digit Calculator\Digit Calculator\bin\Debug\Digit Calculator.xml
+D:\Abdullah\Computer Science\Visual Basic\Digit Calculator\Digit Calculator\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\Abdullah\Computer Science\Visual Basic\Digit Calculator\Digit Calculator\obj\x86\Debug\Digit Calculator.vbproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+D:\Abdullah\Computer Science\Visual Basic\Milk\Milk\bin\Debug\Milk.exe
+D:\Abdullah\Computer Science\Visual Basic\Milk\Milk\bin\Debug\Milk.pdb
+D:\Abdullah\Computer Science\Visual Basic\Milk\Milk\bin\Debug\Milk.xml
+D:\Abdullah\Computer Science\Visual Basic\Milk\Milk\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\Abdullah\Computer Science\Visual Basic\Milk\Milk\obj\x86\Debug\Milk.vbproj.GenerateResource.Cache
+D:\Abdullah\Computer Science\Visual Basic\Milk\Milk\obj\x86\Debug\Milk.exe
+D:\Abdullah\Computer Science\Visual Basic\Milk\Milk\obj\x86\Debug\Milk.xml
+D:\Abdullah\Computer Science\Visual Basic\Milk\Milk\obj\x86\Debug\Milk.pdb

@@ -1,0 +1,8 @@
+D:\Abdullah\Computer Science\Visual Basic\Shop 100 items\Shop 100 items\bin\Debug\Shop 100 items.exe
+D:\Abdullah\Computer Science\Visual Basic\Shop 100 items\Shop 100 items\bin\Debug\Shop 100 items.pdb
+D:\Abdullah\Computer Science\Visual Basic\Shop 100 items\Shop 100 items\bin\Debug\Shop 100 items.xml
+D:\Abdullah\Computer Science\Visual Basic\Shop 100 items\Shop 100 items\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\Abdullah\Computer Science\Visual Basic\Shop 100 items\Shop 100 items\obj\x86\Debug\Shop 100 items.vbproj.GenerateResource.Cache
+D:\Abdullah\Computer Science\Visual Basic\Shop 100 items\Shop 100 items\obj\x86\Debug\Shop 100 items.exe
+D:\Abdullah\Computer Science\Visual Basic\Shop 100 items\Shop 100 items\obj\x86\Debug\Shop 100 items.xml
+D:\Abdullah\Computer Science\Visual Basic\Shop 100 items\Shop 100 items\obj\x86\Debug\Shop 100 items.pdb

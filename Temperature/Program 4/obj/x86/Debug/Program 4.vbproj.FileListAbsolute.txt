@@ -1,0 +1,14 @@
+D:\O levels\Computer Science\Visual Basic\Program 4\Program 4\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\O levels\Computer Science\Visual Basic\Program 4\Program 4\obj\x86\Debug\Program 4.vbproj.GenerateResource.Cache
+D:\O levels\Computer Science\Visual Basic\Program 4\Program 4\bin\Debug\Program 4.exe
+D:\O levels\Computer Science\Visual Basic\Program 4\Program 4\bin\Debug\Program 4.pdb
+D:\O levels\Computer Science\Visual Basic\Program 4\Program 4\bin\Debug\Program 4.xml
+D:\O levels\Computer Science\Visual Basic\Program 4\Program 4\obj\x86\Debug\Program 4.exe
+D:\O levels\Computer Science\Visual Basic\Program 4\Program 4\obj\x86\Debug\Program 4.xml
+D:\O levels\Computer Science\Visual Basic\Program 4\Program 4\obj\x86\Debug\Program 4.pdb
+D:\O levels\Computer Science\Visual Basic\Temperature\Program 4\obj\x86\Debug\Program 4.exe
+D:\O levels\Computer Science\Visual Basic\Temperature\Program 4\obj\x86\Debug\Program 4.xml
+D:\O levels\Computer Science\Visual Basic\Temperature\Program 4\obj\x86\Debug\Program 4.pdb
+D:\Abdullah\Computer Science\Visual Basic\Temperature\Program 4\obj\x86\Debug\Program 4.exe
+D:\Abdullah\Computer Science\Visual Basic\Temperature\Program 4\obj\x86\Debug\Program 4.xml
+D:\Abdullah\Computer Science\Visual Basic\Temperature\Program 4\obj\x86\Debug\Program 4.pdb

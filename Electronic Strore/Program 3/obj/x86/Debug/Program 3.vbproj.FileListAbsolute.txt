@@ -1,0 +1,19 @@
+D:\O levels\Computer Science\Visual Basic\Program 3\Program 3\bin\Debug\Program 3.exe
+D:\O levels\Computer Science\Visual Basic\Program 3\Program 3\bin\Debug\Program 3.pdb
+D:\O levels\Computer Science\Visual Basic\Program 3\Program 3\bin\Debug\Program 3.xml
+D:\O levels\Computer Science\Visual Basic\Program 3\Program 3\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\O levels\Computer Science\Visual Basic\Program 3\Program 3\obj\x86\Debug\Program 3.vbproj.GenerateResource.Cache
+D:\O levels\Computer Science\Visual Basic\Program 3\Program 3\obj\x86\Debug\Program 3.exe
+D:\O levels\Computer Science\Visual Basic\Program 3\Program 3\obj\x86\Debug\Program 3.xml
+D:\O levels\Computer Science\Visual Basic\Program 3\Program 3\obj\x86\Debug\Program 3.pdb
+D:\O levels\Computer Science\Visual Basic\Strore\Program 3\obj\x86\Debug\Program 3.exe
+D:\O levels\Computer Science\Visual Basic\Strore\Program 3\obj\x86\Debug\Program 3.xml
+D:\O levels\Computer Science\Visual Basic\Strore\Program 3\obj\x86\Debug\Program 3.pdb
+D:\O levels\Computer Science\Visual Basic\Strore\Program 3\bin\Debug\Program 3.exe
+D:\O levels\Computer Science\Visual Basic\Strore\Program 3\bin\Debug\Program 3.pdb
+D:\O levels\Computer Science\Visual Basic\Strore\Program 3\bin\Debug\Program 3.xml
+D:\O levels\Computer Science\Visual Basic\Strore\Program 3\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\O levels\Computer Science\Visual Basic\Strore\Program 3\obj\x86\Debug\Program 3.vbproj.GenerateResource.Cache
+D:\Abdullah\Computer Science\Visual Basic\Electronic Strore\Program 3\obj\x86\Debug\Program 3.exe
+D:\Abdullah\Computer Science\Visual Basic\Electronic Strore\Program 3\obj\x86\Debug\Program 3.xml
+D:\Abdullah\Computer Science\Visual Basic\Electronic Strore\Program 3\obj\x86\Debug\Program 3.pdb

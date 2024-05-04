@@ -1,0 +1,8 @@
+D:\Abdullah\Computer Science\Visual Basic\PNumbers\PNumbers\bin\Debug\PNumbers.exe
+D:\Abdullah\Computer Science\Visual Basic\PNumbers\PNumbers\bin\Debug\PNumbers.pdb
+D:\Abdullah\Computer Science\Visual Basic\PNumbers\PNumbers\bin\Debug\PNumbers.xml
+D:\Abdullah\Computer Science\Visual Basic\PNumbers\PNumbers\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\Abdullah\Computer Science\Visual Basic\PNumbers\PNumbers\obj\x86\Debug\PNumbers.vbproj.GenerateResource.Cache
+D:\Abdullah\Computer Science\Visual Basic\PNumbers\PNumbers\obj\x86\Debug\PNumbers.exe
+D:\Abdullah\Computer Science\Visual Basic\PNumbers\PNumbers\obj\x86\Debug\PNumbers.xml
+D:\Abdullah\Computer Science\Visual Basic\PNumbers\PNumbers\obj\x86\Debug\PNumbers.pdb

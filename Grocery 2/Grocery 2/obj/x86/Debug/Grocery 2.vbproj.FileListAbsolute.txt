@@ -1,0 +1,8 @@
+D:\Abdullah\Computer Science\Visual Basic\Grocery 2\Grocery 2\bin\Debug\Grocery 2.exe
+D:\Abdullah\Computer Science\Visual Basic\Grocery 2\Grocery 2\bin\Debug\Grocery 2.pdb
+D:\Abdullah\Computer Science\Visual Basic\Grocery 2\Grocery 2\bin\Debug\Grocery 2.xml
+D:\Abdullah\Computer Science\Visual Basic\Grocery 2\Grocery 2\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\Abdullah\Computer Science\Visual Basic\Grocery 2\Grocery 2\obj\x86\Debug\Grocery 2.vbproj.GenerateResource.Cache
+D:\Abdullah\Computer Science\Visual Basic\Grocery 2\Grocery 2\obj\x86\Debug\Grocery 2.exe
+D:\Abdullah\Computer Science\Visual Basic\Grocery 2\Grocery 2\obj\x86\Debug\Grocery 2.xml
+D:\Abdullah\Computer Science\Visual Basic\Grocery 2\Grocery 2\obj\x86\Debug\Grocery 2.pdb

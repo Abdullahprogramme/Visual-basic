@@ -1,0 +1,32 @@
+D:\O levels\Computer Science\Visual Basic\Prgram 2\Prgram 2\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\O levels\Computer Science\Visual Basic\Prgram 2\Prgram 2\obj\x86\Debug\Prgram 2.vbproj.GenerateResource.Cache
+D:\O levels\Computer Science\Visual Basic\Prgram 2\Prgram 2\bin\Debug\Prgram 2.exe
+D:\O levels\Computer Science\Visual Basic\Prgram 2\Prgram 2\bin\Debug\Prgram 2.pdb
+D:\O levels\Computer Science\Visual Basic\Prgram 2\Prgram 2\bin\Debug\Prgram 2.xml
+D:\O levels\Computer Science\Visual Basic\Prgram 2\Prgram 2\obj\x86\Debug\Prgram 2.exe
+D:\O levels\Computer Science\Visual Basic\Prgram 2\Prgram 2\obj\x86\Debug\Prgram 2.xml
+D:\O levels\Computer Science\Visual Basic\Prgram 2\Prgram 2\obj\x86\Debug\Prgram 2.pdb
+D:\O levels\Computer Science\Visual Basic\Program 2\Prgram 2\obj\x86\Debug\Prgram 2.exe
+D:\O levels\Computer Science\Visual Basic\Program 2\Prgram 2\obj\x86\Debug\Prgram 2.xml
+D:\O levels\Computer Science\Visual Basic\Program 2\Prgram 2\obj\x86\Debug\Prgram 2.pdb
+D:\O levels\Computer Science\Visual Basic\Program 2\Prgram 2\bin\Debug\Prgram 2.exe
+D:\O levels\Computer Science\Visual Basic\Program 2\Prgram 2\bin\Debug\Prgram 2.pdb
+D:\O levels\Computer Science\Visual Basic\Program 2\Prgram 2\bin\Debug\Prgram 2.xml
+D:\O levels\Computer Science\Visual Basic\Program 2\Prgram 2\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\O levels\Computer Science\Visual Basic\Program 2\Prgram 2\obj\x86\Debug\Prgram 2.vbproj.GenerateResource.Cache
+D:\O levels\Computer Science\Visual Basic\Cafe\Prgram 2\obj\x86\Debug\Prgram 2.exe
+D:\O levels\Computer Science\Visual Basic\Cafe\Prgram 2\obj\x86\Debug\Prgram 2.xml
+D:\O levels\Computer Science\Visual Basic\Cafe\Prgram 2\obj\x86\Debug\Prgram 2.pdb
+D:\O levels\Computer Science\Visual Basic\Cafe\Prgram 2\bin\Debug\Prgram 2.exe
+D:\O levels\Computer Science\Visual Basic\Cafe\Prgram 2\bin\Debug\Prgram 2.pdb
+D:\O levels\Computer Science\Visual Basic\Cafe\Prgram 2\bin\Debug\Prgram 2.xml
+D:\O levels\Computer Science\Visual Basic\Cafe\Prgram 2\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\O levels\Computer Science\Visual Basic\Cafe\Prgram 2\obj\x86\Debug\Prgram 2.vbproj.GenerateResource.Cache
+D:\Abdullah\Computer Science\Visual Basic\Cafe\Prgram 2\obj\x86\Debug\Prgram 2.exe
+D:\Abdullah\Computer Science\Visual Basic\Cafe\Prgram 2\obj\x86\Debug\Prgram 2.xml
+D:\Abdullah\Computer Science\Visual Basic\Cafe\Prgram 2\obj\x86\Debug\Prgram 2.pdb
+D:\Abdullah\Computer Science\Visual Basic\Cafe\Prgram 2\bin\Debug\Prgram 2.exe
+D:\Abdullah\Computer Science\Visual Basic\Cafe\Prgram 2\bin\Debug\Prgram 2.pdb
+D:\Abdullah\Computer Science\Visual Basic\Cafe\Prgram 2\bin\Debug\Prgram 2.xml
+D:\Abdullah\Computer Science\Visual Basic\Cafe\Prgram 2\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\Abdullah\Computer Science\Visual Basic\Cafe\Prgram 2\obj\x86\Debug\Prgram 2.vbproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+D:\Abdullah\Computer Science\Visual Basic\Milk (Year)\Milk (Year)\bin\Debug\Milk (Year).exe
+D:\Abdullah\Computer Science\Visual Basic\Milk (Year)\Milk (Year)\bin\Debug\Milk (Year).pdb
+D:\Abdullah\Computer Science\Visual Basic\Milk (Year)\Milk (Year)\bin\Debug\Milk (Year).xml
+D:\Abdullah\Computer Science\Visual Basic\Milk (Year)\Milk (Year)\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\Abdullah\Computer Science\Visual Basic\Milk (Year)\Milk (Year)\obj\x86\Debug\Milk (Year).vbproj.GenerateResource.Cache
+D:\Abdullah\Computer Science\Visual Basic\Milk (Year)\Milk (Year)\obj\x86\Debug\Milk (Year).exe
+D:\Abdullah\Computer Science\Visual Basic\Milk (Year)\Milk (Year)\obj\x86\Debug\Milk (Year).xml
+D:\Abdullah\Computer Science\Visual Basic\Milk (Year)\Milk (Year)\obj\x86\Debug\Milk (Year).pdb

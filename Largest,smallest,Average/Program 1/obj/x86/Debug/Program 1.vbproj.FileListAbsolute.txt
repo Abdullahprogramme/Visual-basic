@@ -1,0 +1,16 @@
+D:\O levels\Computer Science\Visual Basic\Program 1\Program 1\bin\Debug\Program 1.exe
+D:\O levels\Computer Science\Visual Basic\Program 1\Program 1\bin\Debug\Program 1.pdb
+D:\O levels\Computer Science\Visual Basic\Program 1\Program 1\bin\Debug\Program 1.xml
+D:\O levels\Computer Science\Visual Basic\Program 1\Program 1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\O levels\Computer Science\Visual Basic\Program 1\Program 1\obj\x86\Debug\Program 1.vbproj.GenerateResource.Cache
+D:\O levels\Computer Science\Visual Basic\Program 1\Program 1\obj\x86\Debug\Program 1.exe
+D:\O levels\Computer Science\Visual Basic\Program 1\Program 1\obj\x86\Debug\Program 1.xml
+D:\O levels\Computer Science\Visual Basic\Program 1\Program 1\obj\x86\Debug\Program 1.pdb
+D:\Abdullah\Computer Science\Visual Basic\Largest,smallest,Average\Program 1\obj\x86\Debug\Program 1.exe
+D:\Abdullah\Computer Science\Visual Basic\Largest,smallest,Average\Program 1\obj\x86\Debug\Program 1.xml
+D:\Abdullah\Computer Science\Visual Basic\Largest,smallest,Average\Program 1\obj\x86\Debug\Program 1.pdb
+D:\Abdullah\Computer Science\Visual Basic\Largest,smallest,Average\Program 1\bin\Debug\Program 1.exe
+D:\Abdullah\Computer Science\Visual Basic\Largest,smallest,Average\Program 1\bin\Debug\Program 1.pdb
+D:\Abdullah\Computer Science\Visual Basic\Largest,smallest,Average\Program 1\bin\Debug\Program 1.xml
+D:\Abdullah\Computer Science\Visual Basic\Largest,smallest,Average\Program 1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\Abdullah\Computer Science\Visual Basic\Largest,smallest,Average\Program 1\obj\x86\Debug\Program 1.vbproj.GenerateResource.Cache

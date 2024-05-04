@@ -1,0 +1,8 @@
+D:\Abdullah\Computer Science\Visual Basic\Test for Zainab\Test for Zainab\bin\Debug\Test for Zainab.exe
+D:\Abdullah\Computer Science\Visual Basic\Test for Zainab\Test for Zainab\bin\Debug\Test for Zainab.pdb
+D:\Abdullah\Computer Science\Visual Basic\Test for Zainab\Test for Zainab\bin\Debug\Test for Zainab.xml
+D:\Abdullah\Computer Science\Visual Basic\Test for Zainab\Test for Zainab\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\Abdullah\Computer Science\Visual Basic\Test for Zainab\Test for Zainab\obj\x86\Debug\Test for Zainab.vbproj.GenerateResource.Cache
+D:\Abdullah\Computer Science\Visual Basic\Test for Zainab\Test for Zainab\obj\x86\Debug\Test for Zainab.exe
+D:\Abdullah\Computer Science\Visual Basic\Test for Zainab\Test for Zainab\obj\x86\Debug\Test for Zainab.xml
+D:\Abdullah\Computer Science\Visual Basic\Test for Zainab\Test for Zainab\obj\x86\Debug\Test for Zainab.pdb
